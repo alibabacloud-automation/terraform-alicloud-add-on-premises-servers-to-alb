@@ -1,3 +1,13 @@
+## 20 Sep 2026 06:03 UTC
+
+success : false
+
+### Versions
+
+Terraform v1.14.3
+on linux_amd64
++ provider registry.terraform.io/aliyun/alicloud v1.293.0
+
 ## 13 Sep 2026 05:05 UTC
 
 success : false
@@ -79,16 +89,6 @@ on linux_amd64
 + provider registry.terraform.io/aliyun/alicloud v1.286.0
 
 ## 19 Jul 2026 03:03 UTC
-
-success : false
-
-### Versions
-
-Terraform v1.14.3
-on linux_amd64
-+ provider registry.terraform.io/aliyun/alicloud v1.285.0
-
-## 12 Jul 2026 03:25 UTC
 
 success : false
 
